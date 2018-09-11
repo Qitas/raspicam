@@ -1,4 +1,4 @@
-﻿# RPi CV
+﻿# RPi camera
 
 [![sites](docs/Q.png)](http://qitas.cn)
 
@@ -8,9 +8,9 @@
 
 ## 组成
 
-- 视频流传输
-- python实现
-- C++实现
+- web视频流传输,通过网页呈现视频，结合云端的数据处理
+- opencv python实现
+- opencv C++实现
 
 ## 说明
 
