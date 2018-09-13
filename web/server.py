@@ -163,6 +163,7 @@ def main():
             broadcast_thread.start()
             while True:
                 camera.wait_recording(1)
+                sleep(1) # camera warm-up time
         except KeyboardInterrupt:
             pass
         finally:

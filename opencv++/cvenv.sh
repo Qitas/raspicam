@@ -10,7 +10,7 @@ sudo apt install build-essential cmake git pkg-config -y
 #安装OpenCV的图像工具包
 sudo apt install libjpeg8-dev -y
 sudo apt install libtiff5-dev -y
-sudo aptinstall libjasper-dev -y
+sudo apt install libjasper-dev -y
 sudo apt install libpng12-dev -y
 
 #安装视频I/O包
