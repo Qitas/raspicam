@@ -1,6 +1,5 @@
 ﻿# RPi camera
 
-[![sites](docs/Q.png)](http://qitas.cn)
 
 ## 描述
 
@@ -12,7 +11,8 @@
 - opencv python实现
 - opencv C++实现
 
-## 说明
+---
 
-功能持续完善中
+## 为锻造最美之器
 
+[![sites](qitas/qitas.png)](http://www.qitas.cn)
