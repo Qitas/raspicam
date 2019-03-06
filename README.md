@@ -1,18 +1,21 @@
-﻿# RPi camera
+﻿# [web4Pi](https://github.com/qitas/web4Pi) 
+
+#### qitas@qitas.cn
+
+## [描述](https://github.com/qitas/web4Pi/wiki) 
+
+#### [dashboard](dashboard/) 
+
+dashboard管理窗口，通过网页管理设备
 
 
-## 描述
+#### [video](video/) 
 
-基于树莓派实现的opencv功能和图像传输
+web视频流传输,通过网页传送视频
 
-## 组成
-
-- web视频流传输,通过网页呈现视频，结合云端的数据处理
-- opencv python实现
-- opencv C++实现
 
 ---
 
-## 为锻造最美之器
+### 锻造最美之器
 
 [![sites](qitas/qitas.png)](http://www.qitas.cn)
